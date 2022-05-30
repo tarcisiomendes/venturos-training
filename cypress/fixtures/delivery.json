@@ -1,0 +1,50 @@
+{
+    "singup": {
+        "nome": "Daniel",
+        "cpf": "00000041414",
+        "email": "daniel@test.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "76987004",
+            "rua": "Rua Sergio Almir Carniel",
+            "numero": "200",
+            "complemento": "Casa",
+            "bairro": "Jardim Eldorado",
+            "cidadeUF": "Vilhena/RO"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Daniel",
+        "cpf": "000000414AA",
+        "email": "daniel@test.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "76987004",
+            "rua": "Rua Sergio Almir Carniel",
+            "numero": "200",
+            "complemento": "Casa",
+            "bairro": "Jardim Eldorado",
+            "cidadeUF": "Vilhena/RO"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "nome": "Daniel",
+        "cpf": "00000041414",
+        "email": "daniel.test.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep": "76987004",
+            "rua": "Rua Sergio Almir Carniel",
+            "numero": "200",
+            "complemento": "Casa",
+            "bairro": "Jardim Eldorado",
+            "cidadeUF": "Vilhena/RO"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
